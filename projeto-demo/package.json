@@ -1,0 +1,13 @@
+{
+  "name": "projeto-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projeto de demonstracao usando o miniframework CLI em modo interativo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "scripts\\openCli.cmd",
+    "dev:local": "node index.js",
+    "start": "node index.js",
+    "demo": "node index.js"
+  }
+}
